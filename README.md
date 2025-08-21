@@ -72,7 +72,7 @@ Execute the application as shown above and follow on-screen prompts:
 
 **Project Structure**
 
-Banking-System/
+ Banking-System/
   ├── bank.py            # Main CLI application
   ├── users.csv          # Created/updated at runtime (credentials metadata)
   ├── balance.csv        # Created/updated at runtime (balances per user)
