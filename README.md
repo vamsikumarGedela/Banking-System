@@ -1,4 +1,6 @@
 **CLI Banking System**
+
+
 A console-based Python application that simulates a simple banking system. It lets users register and log in with secure PIN hashing, check balances, make deposits/withdrawals, print receipts, and view transaction history—all stored in CSV files.
 
 **Features**
